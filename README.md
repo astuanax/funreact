@@ -1,2 +1,2 @@
-# fun-react
+# funreact
 Functional react components
